@@ -1,0 +1,5 @@
+﻿  main.c
+  Linking ../VisualGDB/Debug/HAL_ADC...
+  ------------------- Memory utilization report -------------------
+  Used FLASH: 13KB out of 256KB (5%) [-960]
+  Used SRAM: 352 bytes out of 48KB (0%)
