@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HAL_PRO1", "HAL_PRO1\HAL_PRO1.vcxproj", "{20162D83-5A93-4259-8C66-804C729AE500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20162D83-5A93-4259-8C66-804C729AE500}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{20162D83-5A93-4259-8C66-804C729AE500}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{20162D83-5A93-4259-8C66-804C729AE500}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{20162D83-5A93-4259-8C66-804C729AE500}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08846522-39BB-41F9-8429-6AF0E4222BB7}
+	EndGlobalSection
+EndGlobal

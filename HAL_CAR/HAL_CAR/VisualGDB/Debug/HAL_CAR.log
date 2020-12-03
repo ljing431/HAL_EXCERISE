@@ -1,0 +1,5 @@
+﻿  main.c
+  Linking ../VisualGDB/Debug/HAL_CAR...
+  ------------------- Memory utilization report -------------------
+  Used FLASH: 15KB out of 256KB (6%) [+20]
+  Used SRAM: 448 bytes out of 48KB (0%)

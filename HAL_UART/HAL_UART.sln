@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HAL_UART", "HAL_UART\HAL_UART.vcxproj", "{41814F7C-4823-4863-8859-D9173CBA9BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41814F7C-4823-4863-8859-D9173CBA9BED}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{41814F7C-4823-4863-8859-D9173CBA9BED}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{41814F7C-4823-4863-8859-D9173CBA9BED}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{41814F7C-4823-4863-8859-D9173CBA9BED}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD41540A-F0E2-4D92-BCEE-1BEF4ED3839D}
+	EndGlobalSection
+EndGlobal

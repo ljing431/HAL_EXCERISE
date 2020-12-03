@@ -1,0 +1,5 @@
+﻿  tim.c
+  Linking ../VisualGDB/Debug/HAL_TIM...
+  ------------------- Memory utilization report -------------------
+  Used FLASH: 8020 bytes out of 256KB (3%)
+  Used SRAM: 188 bytes out of 48KB (0%)

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HAL_LED_01", "HAL_LED_01\HAL_LED_01.vcxproj", "{E847D4AC-9A67-4123-9359-D3A2BE13DB88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E847D4AC-9A67-4123-9359-D3A2BE13DB88}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{E847D4AC-9A67-4123-9359-D3A2BE13DB88}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{E847D4AC-9A67-4123-9359-D3A2BE13DB88}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{E847D4AC-9A67-4123-9359-D3A2BE13DB88}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E618051B-7BF2-4BD4-A8C4-40617D3108A9}
+	EndGlobalSection
+EndGlobal

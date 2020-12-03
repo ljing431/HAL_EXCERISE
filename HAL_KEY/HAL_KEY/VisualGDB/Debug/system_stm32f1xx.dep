@@ -1,0 +1,44 @@
+VisualGDB/Debug/system_stm32f1xx.o: \
+ C:/Users/LJ/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.c \
+ C:/Users/LJ/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h \
+ C:/Users/LJ/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xe.h \
+ C:/Users/LJ/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/Core/Include/core_cm3.h \
+ c:\sysgcc\arm-eabi\lib\gcc\arm-none-eabi\9.3.1\include\stdint.h \
+ c:\sysgcc\arm-eabi\arm-none-eabi\include\stdint.h \
+ c:\sysgcc\arm-eabi\arm-none-eabi\include\machine\_default_types.h \
+ c:\sysgcc\arm-eabi\arm-none-eabi\include\sys\features.h \
+ c:\sysgcc\arm-eabi\arm-none-eabi\include\_newlib_version.h \
+ c:\sysgcc\arm-eabi\arm-none-eabi\include\sys\_intsup.h \
+ c:\sysgcc\arm-eabi\arm-none-eabi\include\sys\_stdint.h \
+ C:/Users/LJ/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/Core/Include/cmsis_version.h \
+ C:/Users/LJ/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/Core/Include/cmsis_compiler.h \
+ C:/Users/LJ/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/Core/Include/cmsis_gcc.h \
+ C:/Users/LJ/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+
+C:/Users/LJ/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h:
+
+C:/Users/LJ/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xe.h:
+
+C:/Users/LJ/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/Core/Include/core_cm3.h:
+
+c:\sysgcc\arm-eabi\lib\gcc\arm-none-eabi\9.3.1\include\stdint.h:
+
+c:\sysgcc\arm-eabi\arm-none-eabi\include\stdint.h:
+
+c:\sysgcc\arm-eabi\arm-none-eabi\include\machine\_default_types.h:
+
+c:\sysgcc\arm-eabi\arm-none-eabi\include\sys\features.h:
+
+c:\sysgcc\arm-eabi\arm-none-eabi\include\_newlib_version.h:
+
+c:\sysgcc\arm-eabi\arm-none-eabi\include\sys\_intsup.h:
+
+c:\sysgcc\arm-eabi\arm-none-eabi\include\sys\_stdint.h:
+
+C:/Users/LJ/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/Core/Include/cmsis_version.h:
+
+C:/Users/LJ/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/Core/Include/cmsis_compiler.h:
+
+C:/Users/LJ/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/Core/Include/cmsis_gcc.h:
+
+C:/Users/LJ/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h:

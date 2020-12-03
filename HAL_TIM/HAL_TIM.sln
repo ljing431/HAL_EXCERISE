@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HAL_TIM", "HAL_TIM\HAL_TIM.vcxproj", "{CBD02DE6-D2BF-4154-9F76-39BE2CEDAB24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBD02DE6-D2BF-4154-9F76-39BE2CEDAB24}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{CBD02DE6-D2BF-4154-9F76-39BE2CEDAB24}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{CBD02DE6-D2BF-4154-9F76-39BE2CEDAB24}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{CBD02DE6-D2BF-4154-9F76-39BE2CEDAB24}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A73A041-6C24-49F9-835D-5C940098BEEE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HAL_CAR", "HAL_CAR\HAL_CAR.vcxproj", "{169B6269-130F-404A-83BE-899147A7C89F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{169B6269-130F-404A-83BE-899147A7C89F}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{169B6269-130F-404A-83BE-899147A7C89F}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{169B6269-130F-404A-83BE-899147A7C89F}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{169B6269-130F-404A-83BE-899147A7C89F}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32611836-F470-46CB-BC15-E8FCBC7532FE}
+	EndGlobalSection
+EndGlobal
