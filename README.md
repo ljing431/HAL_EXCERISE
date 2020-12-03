@@ -1,0 +1,2 @@
+# HAL_EXCERISE
+初学HAL代码
